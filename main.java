@@ -1,6 +1,6 @@
 public class main {
     
  void speak () {
-    System.out.println("Something");
+    System.out.println("Now another thing");
  }
 }
